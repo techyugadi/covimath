@@ -10,3 +10,5 @@ To run the following models, execute (from the top-level covimath directory):
 
 To run the tests, from the top-level covimath directory, run:
 `pytest`
+
+A simple method to estimate beta for SIR model has been provided.
