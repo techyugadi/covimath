@@ -24,7 +24,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
     ],
-    install_requires=["numpy", "scipy", "matplotlib", "pytest"],
+    install_requires=["numpy", "scipy", "matplotlib"],
     entry_points={
         "console_scripts": [
             "covimath=covimath.__main__:main",
