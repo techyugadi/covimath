@@ -14,3 +14,5 @@ To run the tests, from the top-level covimath directory, run:
 A simple method to estimate beta for SIR model has been provided.
 
 Example code can be found in a [gist](https://gist.github.com/techyugadi/1217c16c37d889b4d2204dff067388b2).
+
+**Installation**: To install this package, run: `pip3 install covimath`
